@@ -25,7 +25,7 @@ def main():
     st.title(":blue[_Ride to the World_] 🌏🚎💨")
 
     st.header(":blue[Your budget Your trip 🗽]", divider=True)
-    st.subheader("***In this application, we will propose you the destinations designed for you by your wishes and budget.***")
+    st.subheader("***In this application, we will propose you the destinations designed for you by your wishes and budget. If you have no idea where to go this vacations, but you have some criteria like low or high pollution, temperature of the moment and an estimated budget for the trip, we can randomly send you to some new destinations which we believe that they will suit you. All you need to do is just enter some informations below!***")
 
     col1, col2 = st.columns(2, gap="small")
     with col1:

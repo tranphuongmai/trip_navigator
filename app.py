@@ -122,6 +122,9 @@ def main():
 
     # Importing datasets
     df_main = pd.read_csv(r"dashboard.csv")
+
+    # Modify coordonates of Rome
+    df_main.loc[df_main['City'] == 'Rome', 'coordonates'] = [41.8967, 12.4822]
     
     df_user = [[month_code, temp, air_qual_code, hotel, food, transport]]
 

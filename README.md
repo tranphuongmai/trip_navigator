@@ -17,10 +17,14 @@ The user needs to enter their criteria in a form directly on the site and then r
 ## About the dataset:
 
 - All the datasets can be found on kaggle.com
- City Happiness Index - 2024: (https://www.kaggle.com/datasets/emirhanai/city-happiness-index-2024)
- Cost of living per city: (https://www.kaggle.com/datasets/mvieira101/global-cost-of-living?select=cost-of-living_v2.csv)
- List of World Cities by Population Density: (https://www.kaggle.com/datasets/rajkumarpandey02/list-of-world-cities-by-population-density)
- Temperature per city: (https://www.kaggle.com/datasets/sudalairajkumar/daily-temperature-of-major-cities)
+- 
+City Happiness Index - 2024: (https://www.kaggle.com/datasets/emirhanai/city-happiness-index-2024)
+
+Cost of living per city: (https://www.kaggle.com/datasets/mvieira101/global-cost-of-living?select=cost-of-living_v2.csv)
+
+List of World Cities by Population Density: (https://www.kaggle.com/datasets/rajkumarpandey02/list-of-world-cities-by-population-density)
+
+Temperature per city: (https://www.kaggle.com/datasets/sudalairajkumar/daily-temperature-of-major-cities)
 
 - I also used openweathermap and google to scrape the coordinates and photo of each destination in the filtered list of cities.
 

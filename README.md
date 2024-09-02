@@ -17,7 +17,7 @@ The user needs to enter their criteria in a form directly on the site and then r
 ## About the dataset:
 
 - All the datasets can be found on kaggle.com
-- 
+  
 City Happiness Index - 2024: (https://www.kaggle.com/datasets/emirhanai/city-happiness-index-2024)
 
 Cost of living per city: (https://www.kaggle.com/datasets/mvieira101/global-cost-of-living?select=cost-of-living_v2.csv)
